@@ -17,3 +17,5 @@ artifacts:
   type: zip
   files:
       - '**/*'
+  base-directory: 'dist*'
+  discard-paths: yes
